@@ -1,0 +1,21 @@
+REM INSERTING into JOBS
+SET DEFINE OFF;
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('AD_PRES','President','20080');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('AD_VP','Administration Vice President','15000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('AD_ASST','Administration Assistant','3000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('FI_MGR','Finance Manager','8200');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('FI_ACCOUNT','Accountant','4200');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('AC_MGR','Accounting Manager','8200');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('AC_ACCOUNT','Public Accountant','4200');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('SA_MAN','Sales Manager','10000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('SA_REP','Sales Representative','6000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('PU_MAN','Purchasing Manager','8000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('PU_CLERK','Purchasing Clerk','2500');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('ST_MAN','Stock Manager','5500');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('ST_CLERK','Stock Clerk','2008');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('SH_CLERK','Shipping Clerk','2500');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('IT_PROG','Programmer','4000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('MK_MAN','Marketing Manager','9000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('MK_REP','Marketing Representative','4000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('HR_REP','Human Resources Representative','4000');
+Insert into JOBS (JOB_ID,JOB_TITLE,MIN_SALARY) values ('PR_REP','Public Relations Representative','4500');
