@@ -2,7 +2,7 @@
 --  DDL for Table COUNTRIES
 --------------------------------------------------------
 
-  CREATE TABLE "SCOTT"."COUNTRIES" 
+  CREATE TABLE "COUNTRIES" 
    (	"COUNTRY_ID" CHAR(2 BYTE), 
 	"COUNTRY_NAME" VARCHAR2(40 BYTE), 
 	"REGION_ID" NUMBER, 
