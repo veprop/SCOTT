@@ -1,0 +1,22 @@
+--------------------------------------------------------
+--  DDL for Table EVENT_LOG
+--------------------------------------------------------
+
+  CREATE TABLE "SCOTT"."EVENT_LOG" 
+   (	"ID" NUMBER(38,0), 
+	"ERROR_CODE" NUMBER, 
+	"EVENT_DATE" TIMESTAMP (6), 
+	"INST_ID" NUMBER, 
+	"SID" NUMBER, 
+	"SERIAL#" NUMBER, 
+	"APL_USERNAME" VARCHAR2(50 BYTE), 
+	"DB_USERID" NUMBER, 
+	"MODUL" VARCHAR2(255 BYTE), 
+	"TYP_MODULU" VARCHAR2(20 BYTE), 
+	"ERROR_ROWS" VARCHAR2(2000 BYTE), 
+	"LOG_LEVEL" NUMBER(2,0), 
+	"BUSINESSID" VARCHAR2(100 BYTE), 
+	"TEXT_LOG" VARCHAR2(4000 BYTE), 
+	"APP_ID" NUMBER, 
+	"USER_ID" VARCHAR2(50 BYTE)
+   ) ;
